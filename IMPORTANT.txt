@@ -5,3 +5,7 @@ https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Sni
 https://callstack.github.io/react-native-paper/index.html
 
 https://styled-components.com/docs/api
+
+https://docs.expo.dev/guides/using-custom-fonts/
+
+https://docs.expo.dev/versions/latest/sdk/svg/
