@@ -1,0 +1,5 @@
+https://dev-yakuza.posstree.com/en/react-native/eslint-prettier-husky-lint-staged/#install-eslint
+
+https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
+
+https://callstack.github.io/react-native-paper/index.html
