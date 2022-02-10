@@ -5,6 +5,10 @@ import styled from 'styled-components/native';
 
 import { RestaurantInfoCard } from '../components/restaurants-info-card.component';
 
+/* 
+ Begin - Styling Restaurant Screen
+*/
+
 const SafeArea = styled(SafeAreaView)`
   flex: 1;
   ${StatusBar.currentHeight && `margin-top: ${StatusBar.currentHeight}px`};
@@ -18,6 +22,10 @@ const RestaurantListContainer = styled(View)`
   flex: 1;
   padding: ${(props) => props.theme.space[3]};
 `;
+
+/* 
+ End - Styling Restaurant Screen
+*/
 
 export const RestaurantsScreen = () => (
     <SafeArea>

@@ -3,3 +3,5 @@ https://dev-yakuza.posstree.com/en/react-native/eslint-prettier-husky-lint-stage
 https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
 
 https://callstack.github.io/react-native-paper/index.html
+
+https://styled-components.com/docs/api
